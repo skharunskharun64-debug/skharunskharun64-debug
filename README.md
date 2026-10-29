@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Harun! 👋
 
-<!--
-**skharunskharun64-debug/skharunskharun64-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Web Developer | Python Learner 💻
 
-Here are some ideas to get you started:
+I'm learning to build websites and applications, one project at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning HTML & CSS
+- 🐍 Learning Python
+- 💻 Building practical projects
+- 🎯 Goal: Become a skilled web developer
+
+### 🛠️ Languages & Tools
+
+- Python
+- HTML
+- CSS
+- Git & GitHub
+- VS Code
+
+### 📌 My Journey
+
+I believe in learning by building. This profile is where I'll share my projects, progress, and experiments.
+
+### 🤝 Connect With Me
+
+- GitHub: [@skharunskharun64-debug](https://github.com/skharunskharun64-debug)
+
+---
+
+*“Consistency turns beginners into builders.”* 🚀
